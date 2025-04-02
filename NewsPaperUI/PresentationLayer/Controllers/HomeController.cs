@@ -6,11 +6,10 @@ namespace PresentationLayer.Controllers
     {
         
 
-        public IActionResult Index()//
+        public IActionResult Index()
         {
             return View();
         }
-
      
     }
 }
